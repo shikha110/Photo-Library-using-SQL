@@ -1,8 +1,7 @@
 # PHOTOSCAPE WEBSITE
 
 
-
-![image](https://github.com/user-attachments/assets/8cf93852-17f8-41c3-b26a-47c40eb67f0d)
+![image](https://github.com/user-attachments/assets/4f298da5-5255-4722-beac-c86cb2e4437a)
 
 
 
@@ -10,7 +9,8 @@ In this website I used the idea to make a simple photography website in which a 
 
 
 System flow:
-![image](https://github.com/user-attachments/assets/9cae7571-2ddd-4b53-9b14-d9042ebafbb9)
+
+![image](https://github.com/user-attachments/assets/e17800c3-dae7-43a5-840f-69f93981b216)
 
 
 More in PPT
